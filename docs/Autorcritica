@@ -34,19 +34,8 @@ La dificultad se resolvió revisando la lógica del algoritmo y corrigiendo la e
 
 También se comprobó la importancia de ejecutar las pruebas de manera individual y general para detectar errores y verificar que los componentes continúen funcionando correctamente en conjunto.
 
-### 5. Plan de mejora
 
-Para continuar con el proyecto se propone:
-
-1. Verificar la correspondencia entre el diseño aprobado y el código implementado.
-2. Mantener las pruebas unitarias y conservar sus resultados como evidencia.
-3. Ampliar las pruebas de integración del flujo principal.
-4. Actualizar la documentación técnica y la bitácora de desarrollo.
-5. Verificar el versionamiento del proyecto y mantener un historial organizado de cambios.
-6. Preparar la demostración del funcionamiento y la exposición del avance.
-7. Identificar las mejoras que correspondan a la siguiente fase sin incorporar funcionalidades ajenas al alcance aprobado.
-
-### 6. Conclusión
+### 5. Conclusión
 
 La evaluación del avance permite concluir que se cuenta con una base funcional y modular para el Planificador Académico con Prerrequisitos. Las pruebas realizadas respaldan el comportamiento de las estructuras principales y del algoritmo de planificación en los escenarios evaluados.
 
